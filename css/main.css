@@ -164,3 +164,7 @@ p {
 .forth-section .images-wrapper img {
   position: absolute;
 }
+
+#footer{
+  text-align: center;
+}
